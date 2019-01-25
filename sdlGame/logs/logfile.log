@@ -1,0 +1,62 @@
+[ 20:11:118 ][ 12:51:58 ] [ GENERAL ] SDL initialized
+[ 20:11:118 ][ 12:51:58 ] [ GENERAL ] Window initalized
+[ 20:11:118 ][ 12:51:59 ] [ GENERAL ] Renderer initalized
+[ 20:11:118 ][ 12:51:59 ] [ GENERAL ] WARNING NO GAMEPADS CONNECTED
+[ 20:11:118 ][ 12:51:59 ] [ GENERAL ] keyboard input loaded
+[ 20:11:118 ][ 12:51:59 ] [ GENERAL ] Audio has been loaded
+[ 20:11:118 ][ 12:51:59 ] [ INIT TIME ] time taken to initialize the game : 2074.966309ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 0 time taken: 58.803299ms average time: -nan(ind)ms total time rendering: 0.000000ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 1 time taken: 7.425700ms average time: 58.803299ms total time rendering: 58.803299ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 2 time taken: 5.428500ms average time: 33.114500ms total time rendering: 66.228999ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 3 time taken: 5.060700ms average time: 23.885833ms total time rendering: 71.657499ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 4 time taken: 4.846800ms average time: 19.179550ms total time rendering: 76.718199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 5 time taken: 4.897600ms average time: 16.313000ms total time rendering: 81.564999ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 6 time taken: 7.852800ms average time: 14.410433ms total time rendering: 86.462599ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 7 time taken: 5.527700ms average time: 13.473628ms total time rendering: 94.315399ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 8 time taken: 4.564900ms average time: 12.480387ms total time rendering: 99.843099ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 9 time taken: 4.742600ms average time: 11.600889ms total time rendering: 104.407999ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 10 time taken: 4.723300ms average time: 10.915060ms total time rendering: 109.150599ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 11 time taken: 6.733300ms average time: 10.352173ms total time rendering: 113.873899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 12 time taken: 4.532500ms average time: 10.050600ms total time rendering: 120.607199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 13 time taken: 5.270000ms average time: 9.626131ms total time rendering: 125.139699ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 14 time taken: 7.299400ms average time: 9.314978ms total time rendering: 130.409699ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 15 time taken: 4.743900ms average time: 9.180607ms total time rendering: 137.709099ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 16 time taken: 4.815300ms average time: 8.903312ms total time rendering: 142.452999ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 17 time taken: 4.722000ms average time: 8.662841ms total time rendering: 147.268299ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 18 time taken: 4.765900ms average time: 8.443905ms total time rendering: 151.990299ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 19 time taken: 4.472900ms average time: 8.250326ms total time rendering: 156.756199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 20 time taken: 4.345800ms average time: 8.061455ms total time rendering: 161.229099ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 21 time taken: 4.408300ms average time: 7.884519ms total time rendering: 165.574899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 22 time taken: 4.758800ms average time: 7.726509ms total time rendering: 169.983199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 23 time taken: 4.812800ms average time: 7.597478ms total time rendering: 174.741999ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 24 time taken: 4.538300ms average time: 7.481450ms total time rendering: 179.554799ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 25 time taken: 4.596600ms average time: 7.363724ms total time rendering: 184.093099ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 26 time taken: 5.331200ms average time: 7.257296ms total time rendering: 188.689699ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 27 time taken: 4.715800ms average time: 7.185959ms total time rendering: 194.020899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 28 time taken: 4.710700ms average time: 7.097739ms total time rendering: 198.736699ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 29 time taken: 5.189100ms average time: 7.015428ms total time rendering: 203.447399ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 30 time taken: 5.393400ms average time: 6.954550ms total time rendering: 208.636498ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 31 time taken: 4.688300ms average time: 6.904190ms total time rendering: 214.029899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 32 time taken: 5.892300ms average time: 6.834944ms total time rendering: 218.718199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 33 time taken: 5.025800ms average time: 6.806379ms total time rendering: 224.610499ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 34 time taken: 4.418600ms average time: 6.754009ms total time rendering: 229.636299ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 35 time taken: 4.784200ms average time: 6.687283ms total time rendering: 234.054899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 36 time taken: 4.482800ms average time: 6.634419ms total time rendering: 238.839099ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 37 time taken: 4.226800ms average time: 6.576268ms total time rendering: 243.321899ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 38 time taken: 4.986500ms average time: 6.514439ms total time rendering: 247.548699ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 39 time taken: 4.516700ms average time: 6.475262ms total time rendering: 252.535199ms
+[ 20:11:118 ][ 12:52:0 ] [ RENDER CYCLE TIME ] cycle number: 40 time taken: 5.210300ms average time: 6.426297ms total time rendering: 257.051899ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 41 time taken: 4.785900ms average time: 6.396639ms total time rendering: 262.262199ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 42 time taken: 4.358500ms average time: 6.358288ms total time rendering: 267.048099ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 43 time taken: 4.941000ms average time: 6.311781ms total time rendering: 271.406599ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 44 time taken: 4.752800ms average time: 6.280627ms total time rendering: 276.347599ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 45 time taken: 4.584600ms average time: 6.246676ms total time rendering: 281.100399ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 46 time taken: 4.463000ms average time: 6.210543ms total time rendering: 285.684999ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 47 time taken: 4.307300ms average time: 6.173362ms total time rendering: 290.147999ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 48 time taken: 4.641200ms average time: 6.134485ms total time rendering: 294.455299ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 49 time taken: 4.228400ms average time: 6.104010ms total time rendering: 299.096499ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 50 time taken: 4.159700ms average time: 6.066498ms total time rendering: 303.324899ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 51 time taken: 4.771300ms average time: 6.029110ms total time rendering: 307.484599ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 52 time taken: 4.484300ms average time: 6.004921ms total time rendering: 312.255899ms
+[ 20:11:118 ][ 12:52:1 ] [ RENDER CYCLE TIME ] cycle number: 53 time taken: 5.153000ms average time: 5.976230ms total time rendering: 316.740199ms
+[ 20:11:118 ][ 12:52:1 ] [ GENERAL ] game closed, objects destroyed, game memory cleaned

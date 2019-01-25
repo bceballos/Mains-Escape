@@ -1,0 +1,11 @@
+{
+  "forward": "w",
+  "backward": "s",
+  "left": "a",
+  "right": "d",
+  "pause": "escape",
+  "sprint": "left shift",
+   "log": "l",
+  "fullscreen": "tab",
+  "enter" : "return"
+}

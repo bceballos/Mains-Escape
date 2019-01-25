@@ -1,0 +1,48 @@
+﻿  door.cpp
+  enemy.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\enemy.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\enemy.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\enemy.cpp(116): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  font.cpp
+  gameObject.cpp
+  gameEngine.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\hgametimer.h(18): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(268): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(285): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(441): warning C4150: deletion of pointer to incomplete type '_SDL_Joystick'; no destructor called
+  c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\packages\sdl2.new.2.0.8\build\native\include\sdl_joystick.h(67): note: see declaration of '_SDL_Joystick'
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(604): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(612): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(620): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(628): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(636): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(644): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(838): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(849): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(908): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gameengine.cpp(919): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  gameTimer.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\hgametimer.h(18): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\gametimer.cpp(23): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  keys.cpp
+  log.cpp
+  particle.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\particle.cpp(38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\particle.cpp(39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\particle.cpp(69): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\packages\sdl2.new.2.0.8\build\native\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  player.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\player.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\player.cpp(129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\player.cpp(222): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  sdlGame.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\sdlgame.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  timer.cpp
+  vector.cpp
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\vector.cpp(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\iaceballos\downloads\sdlgame-finalizedforsubmission\sdlgame\sdlgame\vector.cpp(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 1982 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sdlGame.vcxproj -> C:\Users\iaceballos\Downloads\sdlGame-FinalizedForSubmission\sdlGame\x64\Release\sdlGame.exe
